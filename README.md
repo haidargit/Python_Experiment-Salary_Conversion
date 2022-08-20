@@ -71,7 +71,8 @@ _id, name, username, email, address, phone, salary in IDR🇮🇩, and salary in
   * if you use **python 3**: run `python3 currencyconv.py`
   * if you use **python 2**: run `python currencyconv.py`
 
-* Voila, you can immediately see the result of currency converter in the terminal/console.
+* Voila, you can immediately see the result of currency converter in the terminal/console.  
+
   ![Salary Conversion](https://raw.githubusercontent.com/haidargit/Python_Experiment-Salary_Conversion/main/ResultPreview.png)
 
 <p align="right">
