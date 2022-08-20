@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#credits">Credits</a> 
 </p>
 
 ---
@@ -48,7 +48,7 @@ _id, name, username, email, address, phone, salary in IDR, and salary in USD_
 ##### Steps:
 * Clone **[This Repo](https://github.com/haidargit/Python_Experiment-Salary_Conversion.git)**.
 
-* Of course, make sure `you have Python on your machine`. You can download Python from this **[>>Link<<](https://www.python.org/)**.
+* Of course, make sure `you have Python on your machine`. You can download Python from this <a href="https://www.python.org/" target="_blank">>>**Link**<<</a>.
 
 * Register the free currency API on https://free.currencyconverterapi.com.  
   (🤔 &nbsp; **Hmm**, per August 2022 the website says: `"due to abuse of this service, please send an` [email to the author](https://www.currencyconverterapi.com/contact) `with the subject: Request for Free Currency Converter API Key"`)
