@@ -38,7 +38,7 @@ o Add one field to represent salary in USD (salary in JSON file is in IDR) using
 Try to be efficient with the resource by not making a get request to endpoint after every conversion  
 
 o Output from the endpoint:  
-_id, name, username, email, address, phone, salary in IDR, and salary in USD_
+_id, name, username, email, address, phone, salary in IDR🇮🇩, and salary in USD🇺🇸_
 </td>
 </tr>
 </table>
