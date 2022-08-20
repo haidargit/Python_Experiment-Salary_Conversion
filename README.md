@@ -72,6 +72,11 @@ _id, name, username, email, address, phone, salary in IDR🇮🇩, and salary in
   * if you use **python 2**: run `python currencyconv.py`
 
 * Voila, you can immediately see the result of currency converter in the terminal/console.
+  ![Salary Conversion](https://raw.githubusercontent.com/haidargit/Python_Experiment-Salary_Conversion/main/ResultPreview.png)
+
+<p align="right">
+<sub>(Preview)</sub>
+</p>
 
 ## Credits
 | [![fixer.io](https://fixer.io/fixer_images/fixer_money.png)](https://fixer.io/) |
