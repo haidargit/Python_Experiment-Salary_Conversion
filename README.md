@@ -55,7 +55,7 @@ o Output from the endpoint should be: id, name, username, email, address, phone,
   * The folder structure:
     * `./problem1.py`
     * `./salary_data.json`
-
+`
 * **Notes:** this repo requires additional module that you need to install. even on python per this version. 3.10. Because `requests` is not a built in module (does not come with the default python installation), so you will have to install it
   * if you use **Python 2**: run `sudo pip install requests`
   * or, if you use **Python 3**: run `sudo pip3 install requests`
