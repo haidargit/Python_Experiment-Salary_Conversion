@@ -37,11 +37,11 @@
 <table>
 <tr>
 <td>
-o We can fetch the example data from http://jsonplaceholder.typicode.com/users
+o We can fetch the example data from http://jsonplaceholder.typicode.com/users  
 
 o Join the fetched data with the salary data from JSON file by using their ids
 
-o Add one field to represent salary in USD (salary in JSON file is in IDR) using currency converter (such as https://free.currencyconverterapi.com). 
+o Add one field to represent salary in USD (salary in JSON file is in IDR) using currency converter (such as https://free.currencyconverterapi.com).  
 Try to be efficient with the resource by not making a get request to endpoint after every conversion
 
 o Output from the endpoint should be: id, name, username, email, address, phone, salary in IDR, and salary in USD
