@@ -32,7 +32,7 @@
 <table>
 <tr>
 <td>
-o We can fetch the example data from http://jsonplaceholder.typicode.com/users   
+o We can fetch the example data from http://jsonplaceholder.typicode.com/users <br />
 
 o Join the fetched data with the salary data from JSON file by using their ids  
 
