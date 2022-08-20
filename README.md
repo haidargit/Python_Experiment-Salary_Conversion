@@ -32,9 +32,9 @@
 <table>
 <tr>
 <td>
-o We can fetch the example data from http://jsonplaceholder.typicode.com/users <br />
+o We can fetch the example data from http://jsonplaceholder.typicode.com/users
 
-o Join the fetched data with the salary data from JSON file by using their ids  
+<br />o Join the fetched data with the salary data from JSON file by using their ids  
 
 o Add one field to represent salary in USD (salary in JSON file is in IDR) using currency converter (such as https://free.currencyconverterapi.com).  
 Try to be efficient with the resource by not making a get request to endpoint after every conversion  
